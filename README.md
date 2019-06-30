@@ -1,1 +1,2 @@
-# Milwaukee-Crime-Vis
+# Milwaukee-Crime-Visualization 
+By: Anthony Barthell
