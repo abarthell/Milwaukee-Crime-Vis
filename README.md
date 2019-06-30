@@ -2,3 +2,5 @@
 By: Anthony Barthell
 
 ## Motivation
+
+## Approaches
