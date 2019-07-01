@@ -17,7 +17,7 @@ Displayed below are the number of crimes committed in the [15 different Milwauke
 ![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/cplot.png)
 
 ## What Weapons are Used?
-Fortunately, two-thirds (67%) of the time, weapons were not used during these crimes over the past five years.
+Fortunately, two-thirds (67%) of the time, **no weapons were used** during crimes over the past five years.
 <p align="center">
   <img src="https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/dplot.png">
 </p>
