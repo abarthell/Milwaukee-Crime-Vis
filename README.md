@@ -30,4 +30,4 @@ However, when weapons were used, the following five appeared the most frequently
 </p>
 
 ## Future Work
-todo..
+Since the latitude and longitude of the crimes are given in the dataset, it would be interesting to apply Deep Learning techniques in order to predict the probability of crimes being committed in certain areas during certain times (in terms of hours, day, and month).
