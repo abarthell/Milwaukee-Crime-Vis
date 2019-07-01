@@ -9,7 +9,7 @@ Boasting a population of [nearly 600,000 residents](http://www.city-data.com/cit
 ![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/aplot.png)
 
 ## What Hours Are the Most Dangerous?
-I initially assumed that most crimes occur during the night, but this surprisngly turned out to be false. The number of crimes steadily decreases from around 10 PM (hour 22 on the plot) with 10336 reported crimes until it levels out from 4 AM to 5 AM with around 3500 crimes. Afterwards, the number of crimes sharply increases to around 10000 by 8 AM. For the remainder of the day until 10 PM (hour 22 on the plot), the number of crimes committed interestingly stays relatively constant, hovering between 10000 to 11900 crimes. The highest number of crimes committed is at 7 PM (hour 19 on the plot), totalling 11883 crimes.
+I initially assumed that most crimes occur during the night, but this surprisngly turned out to be false. The number of crimes steadily decreases from around 10 PM (hour 22 on the plot) with 10336 reported crimes until it levels out from 4 AM to 5 AM with around 3500 crimes. Afterwards, the number of crimes sharply increases to around 10000 by 8 AM. For the remainder of the day until 10 PM (hour 22 on the plot), the number of crimes committed interestingly stays relatively constant, hovering between 10000 to 11900 crimes. The highest number of crimes committed is at 5 PM (hour 17 on the plot), totalling 11883 crimes.
 ![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/bplot.png)
 
 ## Future Work
