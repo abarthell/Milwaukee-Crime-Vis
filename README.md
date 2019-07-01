@@ -23,7 +23,7 @@ Fortunately, two-thirds (67%) of the time, **no weapons were used** during crime
 </p>
 
 
-However, when weapons were used, the following five appeared the most frequently. **Unknown** weapons were used the most often to commit crimes 39.4% of the time. Next, **hands** were utilized 33.3% of the time, most likely during fist-to-fist brawls. **Handguns** were used 14.1% of the time, followed by **personal weapons** at 8.1%. Lastly, **guns** were used 5.1% of the time.
+However, when weapons were used, the following five appeared the most frequently. **Unknown** weapons were used the most often to commit crimes 39.4% of the time. Next, **hands** were utilized 33.3% of the time, most likely during fist-to-fist brawls or burglaries. **Handguns** were used 14.1% of the time, followed by **personal weapons** at 8.1%. Lastly, **guns** were used 5.1% of the time.
 
 <p align="center">
   <img src="https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/eplot.png">
