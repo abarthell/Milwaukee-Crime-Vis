@@ -13,9 +13,11 @@ I initially assumed that most crimes occur during the night, but this surprisngl
 ![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/bplot.png)
 
 ## Which Districts Are the Worst?
-Displayed below are the number of crimes committed in the 15 different Milwaukee Aldermanic Districts. On the right hand side, we have District 15 as our winner with 21542 total crimes in the past five years. The next six worst districts (7, 6, 1, 4, 12, 2) all had between 17300 and 19100 crimes. There is a sharp decline to the next three districts (8, 9, 3), which had between 12300 and 12600 crimes. The last five districts (5, 10, 14, 13, 11) steadily drop in crime history, with district 11 having the lowest of them all at 5951 reported crimes.
- 
+Displayed below are the number of crimes committed in the [15 different Milwaukee Aldermanic Districts](https://city.milwaukee.gov/Directory/How-to-Run-for-Public-Office/Nomination-Packet-Forms/District-Maps/Map-City-of-Milwaukee-Alderman.htm#.XRlhjpNKjOQ). On the right hand side, we have District 15 as our winner with 21542 total crimes in the past five years. The next six worst districts (7, 6, 1, 4, 12, 2) all had between 17300 and 19100 crimes. There is a sharp decline to the next three districts (8, 9, 3), which had between 12300 and 12600 crimes. The last five districts (5, 10, 14, 13, 11) steadily drop in crime history, with district 11 having the lowest of them all at 5951 reported crimes.
 ![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/cplot.png)
+
+## What Weapons are Used?
+Here are the most common weapons.
 
 ## Future Work
 todo..
