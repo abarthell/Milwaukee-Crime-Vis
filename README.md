@@ -17,7 +17,11 @@ Displayed below are the number of crimes committed in the [15 different Milwauke
 ![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/cplot.png)
 
 ## What Weapons are Used?
-Here are the most common weapons.
+Fortunately, 67% of the time, weapons are not used during these crimes.
+![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/dplot.png)
+
+However, here are the five most common weapons. As shown "unknown" is the most popular.
+![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/eplot.png)
 
 ## Future Work
 todo..
