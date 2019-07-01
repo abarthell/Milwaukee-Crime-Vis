@@ -6,6 +6,6 @@ Boasting a population of [nearly 600,000 residents](http://www.city-data.com/cit
 
 ## Data Analysis of Trends
 **Assault Offence** was by far the most committed crime in Milwaukee between January 1st, 2014 and July 30, 2019, with a total of 57899 incidents. The subsequent three most committed crimes were **Theft, Vehicle Theft, and Burglary**, which totaled in 35847, 32031, and 29229 incidents, respectively. There is another sharp decline to the following three most committed crimes, which were **Locked Vehicle, Criminal Damage, and Robbery**, totalling in 21555, 21330, and 16808 incidents, respectively. Lastly, the three least committed crimes were **Sex Offense, Arson, and Homicide**, which amounted in 4849, 1539, and 603 reported incidents, respectively.
-![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/totalCounts.png)
+![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/aplot.png)
 
 ## Future Work
