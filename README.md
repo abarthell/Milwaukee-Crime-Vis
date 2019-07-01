@@ -1,5 +1,5 @@
 # Milwaukee Crime Visualization 
-*Copyright (c) 2019 _Anthony Barthell_ *
+*Copyright (c) 2019* **Anthony Barthell**
 
 ## Motivation
 Boasting a population of [nearly 600,000 residents](http://www.city-data.com/city/Milwaukee-Wisconsin.html), Milwaukee is the largest city in Wisconsin. Unfortunately, Milwaukee has been consistently ranked as [one of the most dangerous cities in America](https://www.cbsnews.com/pictures/the-most-dangerous-cities-in-america/40/). As a student at the University of Wisconsin-Madison, I analyzed [Milwaukee's criminal data](https://data.milwaukee.gov/dataset/wibr/resource/87843297-a6fa-46d4-ba5d-cb342fb2d3bb) from the past five years (2014 - Present). The dataset consists of 22 columns, displaying critical information such as **reported date and time, location, district number, and type of crime**. Rigorous data analysis of the records may translate to insightful correlations and potential remedies.
