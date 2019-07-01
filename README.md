@@ -18,6 +18,8 @@ Displayed below are the number of crimes committed in the [15 different Milwauke
 
 ## What Weapons are Used?
 Here are the most common weapons.
+![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/dplot.png)
+![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/eplot.png)
 
 ## Future Work
 todo..
