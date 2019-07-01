@@ -13,7 +13,8 @@ I initially assumed that most crimes occur during the night, but this surprisngl
 ![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/bplot.png)
 
 ## Which Districts Are the Worst?
-
+Displayed below are the number of crimes committed in the 15 different Milwaukee Aldermanic Districts. 
+ 
 ![Picture](https://github.com/abarthell/Milwaukee-Crime-Vis/blob/master/img/cplot.png)
 
 ## Future Work
